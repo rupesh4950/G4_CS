@@ -22,5 +22,5 @@ Welcome to the course report for the [Course Name]! This README document provide
 Below is a table summarizing the mini projects and final project completed during the course:
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Project-I:Crypto-Tool for encryption and decryption,Project-II:Research on Offensive Tools,Project-III:Eternal Blue    | [Click Here](),[Click Here](),[Click Here]()                         |
-| Final Project: FolderFinderInWeb| [Click Here]()                         |
+| Mini Projects: Project-I:Crypto-Tool for encryption and decryption,Project-II:Research on Offensive Tools,Project-III:Eternal Blue    | [Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Rupesh/Project1),[Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Rupesh/Project2),[Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Rupesh/Project3)                         |
+| Final Project: FolderFinderInWeb| [Click Here](https://github.com/sure-trust/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh)                         |
